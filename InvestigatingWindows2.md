@@ -1,8 +1,6 @@
 ### Investigating Windows 2
 
-Here's the Markdown format based on the provided answers:
 
-```markdown
 # Questions and Answers
 
 ## What registry key contains the same command that is executed within a scheduled task?
