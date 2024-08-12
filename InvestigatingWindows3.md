@@ -89,4 +89,3 @@
 
 30. **What is the MITRE ID for this technique?**  
     **Answer:** T1055
-```
