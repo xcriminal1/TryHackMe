@@ -1,0 +1,14 @@
+## Web Shell Details
+- **Issue:** Where was the web shell uploaded to?  
+  **Answer:** /media/images/rooms/shell.php  
+
+- **Hint:** What IP address accessed the web shell?  
+  **Answer:** 10.11.83.34  
+
+## Flag Contents
+- **Issue:** What is the contents of the flag.txt?  
+  **Answer:** THM{Gl1tch_Was_H3r3}  
+
+## Additional Hint
+- **Hint:** If you liked today's task, you can learn how to harness the power of advanced ELK queries.  
+  *No answer needed*

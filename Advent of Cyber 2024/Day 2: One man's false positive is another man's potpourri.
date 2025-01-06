@@ -1,0 +1,22 @@
+## Failed Login Attempts
+- **Issue:** What is the name of the account causing all the failed login attempts?  
+  **Answer:** service_admin  
+
+- **Issue:** How many failed logon attempts were observed?  
+  **Answer:** 6791  
+
+## Hint
+- **Issue:** What is the IP address of Glitch?  
+  **Answer:** 10.0.255.1  
+
+## Successful Logon
+- **Issue:** When did Glitch successfully logon to ADM-01?  
+  **Answer:** Dec 1, 2024 08:54:39.000  
+
+## Decoded Command
+- **Issue:** What is the decoded command executed by Glitch to fix the systems of Wareville?  
+  **Answer:** Install-WindowsUpdate -AcceptAll -AutoReboot  
+
+## Additional Hint
+- **Hint:** If you enjoyed this task, feel free to check out the Investigating with ELK 101 room!  
+  *No answer needed*

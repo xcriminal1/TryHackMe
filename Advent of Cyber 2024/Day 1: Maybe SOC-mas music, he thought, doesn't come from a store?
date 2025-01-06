@@ -1,0 +1,23 @@
+## Song Metadata
+- **Issue:** Looks like the song.mp3 file is not what we expected!  
+  Run `exiftool song.mp3` in your terminal to find out the author of the song.  
+  **Author:** Tyler Ramsbey  
+
+## Malicious PowerShell Script
+- **Issue:** The malicious PowerShell script sends stolen info to a C2 server.  
+  **C2 Server URL:** http://papash3ll.thm/data  
+
+## Hint
+- **Issue:** Who is M.M? Maybe his GitHub profile page would provide clues?  
+  **Answer:** Mayor Malware  
+
+## GitHub Repository
+- **Issue:** What is the number of commits on the GitHub repo where the issue was raised?  
+  **Answer:** 1  
+
+## Additional Hints
+- **Hint:** If you enjoyed this task, feel free to check out the OPSEC room!  
+  *No answer needed*  
+
+- **Hint:** What's with all these GitHub repos? Could they hide something else?  
+  *No answer needed*
