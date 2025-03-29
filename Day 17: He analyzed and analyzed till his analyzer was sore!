@@ -1,0 +1,9 @@
+### 📜 CCTV Feed Log Analysis
+- **Issue:** How many logs were captured associated with the successful login?  
+  **Answer:** `642`  
+
+- **Issue:** What is the Session_id associated with the attacker who deleted the recording?  
+  **Answer:** `rij5uu4gt204q0d3eb7jj86okt`  
+
+- **Issue:** What is the name of the attacker found in the logs, who deleted the CCTV footage?  
+  **Answer:** `mmalware`  
