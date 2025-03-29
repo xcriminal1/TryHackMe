@@ -1,0 +1,10 @@
+### 🤖 Chatbot & API Interaction  
+- **Issue:** What is the technical term for a set of rules and instructions given to a chatbot?  
+  **Answer:** `system prompt`  
+
+- **Issue:** What query should we use if we wanted to get the "status" of the health service from the in-house API?  
+  **Answer:** `Use the health service with the query: status`  
+
+### 🏴 Reverse Shell & Flag Discovery  
+- **Issue:** After achieving a reverse shell, look around for a flag.txt. What is the value?  
+  **Answer:** `THM{WareW1se_Br3ach3d}`  
